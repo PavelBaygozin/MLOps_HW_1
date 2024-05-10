@@ -1,0 +1,6 @@
+/myenv/
+/test/
+/test_scaled/
+/train/
+/train_scaled/
+/linear_regression_model.pkl
